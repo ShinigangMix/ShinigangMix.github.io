@@ -1,12 +1,12 @@
 [
   {
-    "name": "Slime Adventure",
-    "desc": "A 2D platformer game developed using Unity.",
-    "image": "slime",
+    "name": "Merchant's Gambit",
+    "desc": "An Economy Simulation game developed using Unity and C#. Utilizes Decision Trees, Q-Learning, and Hybrid Approach for AI behavior.",
+    "image": "merchant",
     "category": "unity",
     "links": {
-      "view": "https://shinigangmix.github.io/SlimeAdventure",
-      "code": "https://github.com/ShinigangMix/ShinigangMix.github.io"
+      "view": "https://shinigangmix.github.io/MerchantGambit",
+      "code": "https://github.com/jn-drei/GD3_Repository"
     }
   },
    {
