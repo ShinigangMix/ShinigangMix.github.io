@@ -1,32 +1,39 @@
 [
   {
     "name": "Merchant's Gambit",
-    "desc": "An Economy Simulation game developed using Unity and C#. Utilizes Decision Trees, Q-Learning, and Hybrid Approach for AI behavior.",
+    "desc": "An Economy Simulation game developed using Unity and C#.",
     "image": "merchant",
     "category": "unity",
     "links": {
-      "view": "https://shinigangmix.github.io/MerchantGambit",
       "code": "https://github.com/jn-drei/GD3_Repository"
     }
   },
-   {
+  {
     "name": "Slime Adventure",
     "desc": "A 2D platformer game developed using Unity.",
     "image": "slime",
     "category": "unity",
     "links": {
       "view": "https://shinigangmix.github.io/SlimeAdventure",
-      "code": "https://github.com/ShinigangMix/ShinigangMix.github.io"
+      "code": "https://github.com/ShinigangMix/slime-adventure"
     }
   },
-   {
-    "name": "Slime Adventure",
-    "desc": "A 2D platformer game developed using Unity.",
-    "image": "slime",
+  {
+    "name": "Attendance System",
+    "desc": "An Attedance, Inventory and Management System Developed for Ichivan Metal Casting.",
+    "image": "ichivan",
     "category": "unity",
     "links": {
-      "view": "https://shinigangmix.github.io/SlimeAdventure",
-      "code": "https://github.com/ShinigangMix/ShinigangMix.github.io"
+      "code": "https://github.com/jn-drei/ProjectAstralisSE2Repo"
+    }
+  },
+  {
+    "name": "Active Learning LMS",
+    "desc": "Mock website for an Active Learning Learning Management System (LMS).",
+    "image": "activelearning",
+    "category": "unity",
+    "links": {
+      "code": "https://github.com/ShinigangMix/ActiveLearningMockWebsite"
     }
   }
 ]
